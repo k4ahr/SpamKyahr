@@ -36,7 +36,7 @@ while True:
 
     if not a == "q":
         print("You got 5 seconds to click into the text box")
-        print("WARNING: DO NOT CLICK ANYTHING OR MOVE THE MOUSE WHEN THE BOT IS RUNNING *or you PC will crack*")
+        print("WARNING: DO NOT CLICK ANYTHING OR MOVE THE MOUSE WHEN THE BOT IS RUNNING *or you PC will crash*")
     
     time.sleep(5)
     f = open(x,'r')
