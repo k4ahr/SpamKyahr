@@ -6,7 +6,7 @@ Requirements: A PC and Python 3 install
 
 Install Python first: https://www.python.org/ftp/python/3.9.2/python-3.9.2-amd64.exe
 
-Or and run "pip install pyautogui" in cmd
+Oh and run "pip install pyautogui" in cmd
 
 Tutorial : https://youtu.be/B6U7CcSTvg8
 
