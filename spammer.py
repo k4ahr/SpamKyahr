@@ -13,6 +13,7 @@ while True:
     4) Pumped up kick
     5) Rapgod 
     6) Never gonna give you up
+    7)FunnyFunny
     q) Quit
     ''')
 
