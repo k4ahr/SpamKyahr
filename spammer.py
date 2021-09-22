@@ -31,6 +31,8 @@ while True:
         x = "rapgod.txt"
     elif a == "6":
         x = "rickroll.txt"
+    elif a == "7":
+        x = "notfunny.txt"
     elif a == "q":
         break
 
