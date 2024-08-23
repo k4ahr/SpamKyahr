@@ -1,6 +1,6 @@
 # SpamKyahr
 
-A spambot made by me, for who want to spam rickroll, Bee movie, etc
+***A stupid script made by 14 year-old me, for who want to spam rickroll, Bee movie, etc***
 
 Requirements: A PC and Python 3 install
 
